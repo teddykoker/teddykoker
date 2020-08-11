@@ -3,7 +3,7 @@
 ## Popular Articles
 
 <p>
-  <img width="250" align='left' src="https://teddykoker.com/images/signal_chain.png">
+  <img height="250" align='left' src="https://teddykoker.com/images/signal_chain.png">
 </p>
 
 ### [Deep Learning for Guitar Effect
@@ -16,7 +16,7 @@ of an iconic analog effect pedal, the Ibanez Tube Screamer.
 
 
 <p>
-  <img width="250" align='left' src="https://teddykoker.com/images/betting.png">
+  <img height="250" align='left' src="https://teddykoker.com/images/betting.png">
 </p>
 
 ### [Beating the Odds: Machine Learning for Horse
@@ -27,7 +27,7 @@ Inspired by the story of Bill Benter, a gambler who developed a computer model t
 ---
 
 <p>
-  <img width="250" align='left' src="https://teddykoker.com/images/2020-02-25-nlp-from-scratch-annotated-attention_34_0.png">
+  <img height="250" align='left' src="https://teddykoker.com/images/2020-02-25-nlp-from-scratch-annotated-attention_34_0.png">
 </p>
 
 ### [NLP from Scratch: Annotated
