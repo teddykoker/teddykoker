@@ -25,6 +25,6 @@ Inspired by the story of Bill Benter, a gambler who developed a computer model t
   <img height="128" align='left' style="margin-right:14px" src="https://teddykoker.com/images/poly_circles.png">
 </p>
 
-### [NLP from Scratch: Annotated Attention](https://teddykoker.com/2020/02/nlp-from-scratch-annotated-attention/)
+### [Performers: The Kernel Trick, Random Fourier Features, and Attention](https://teddykoker.com/2020/11/performers/)
 
 Google AI recently released a paper, *Rethinking Attention with Performers* (Choromanski et al., 2020), which introduces Performer, a Transformer architecture which estimates the full-rank-attention mechanism using orthogonal random features to approximate the softmax kernel with linear space and time complexity. In this post we will investigate how this works, and how it is useful for the machine learning community.
